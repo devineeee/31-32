@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Desty",
+      "email": "desty@email.com",
+      "bidang": "Barista"
+    },
+    {
+      "id": "9ad8",
+      "name": "Desta",
+      "email": "desta@gmail.com",
+      "bidang": "Manager"
+    },
+    {
+      "id": "6779",
+      "name": "Laela",
+      "email": "laela@email.com",
+      "bidang": "Marketing"
+    }
+  ]
+}
